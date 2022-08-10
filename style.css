@@ -1,0 +1,24 @@
+    #contentMain {
+      width: 20%;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    #contador {
+      border: solid 1px;
+      height: 200px;
+      display: flex;
+      font-size: 4em;
+      border-radius: .6em;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #btnClick,
+    #btnReset {
+      margin-top: 1em;
+      cursor: pointer;
+      padding: 1em;
+      font-size: 1em;
+    }
+
