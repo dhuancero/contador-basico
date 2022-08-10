@@ -1,2 +1,2 @@
 # Contador-básico
-Contador usando JavaScript y `HTML5`
+Contador usando `JavaScript` y `HTML5`
